@@ -1,10 +1,26 @@
-# TodoFormMaster
+
+# About
+This Angular project was intented to use training purpose which illustrate the use of 
+
+* Model Driven Template[Reactive] - Form builder
+* Catching Form Data with Model class
+* Binding controls (form)
+* Validation
+* Feedback (UI)
+* Class binding (for error)
+* Property/Event binding
+* Using service to access API
+* Enabling button based on validation
+* Show Submition error in the UI
+
+
+# Development Tools and How to
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve -o` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -22,6 +38,5 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# More 
+ For more tutorials and samples please visit my [blog](https://developermblog.wordpress.com/source-code/) 
